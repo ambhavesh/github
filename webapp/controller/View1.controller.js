@@ -4,6 +4,8 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("gitgub.controller.View1", {
-
+		onInit: function(){
+			//init code will be placed here
+		}
 	});
 });
